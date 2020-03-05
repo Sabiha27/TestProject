@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[1 _available]]>
+    </line>
+    <line>
+      <![CDATA[2 _available]]>
+    </line>
+    <line>
+      <![CDATA[3 _available]]>
+    </line>
+    <line>
+      <![CDATA[4 _available]]>
+    </line>
+    <line>
+      <![CDATA[5 _available]]>
+    </line>
+    <line>
+      <![CDATA[6 _available]]>
+    </line>
+    <line>
+      <![CDATA[7 _available]]>
+    </line>
+    <line>
+      <![CDATA[8 _available]]>
+    </line>
+    <line>
+      <![CDATA[9 _available]]>
+    </line>
+    <line>
+      <![CDATA[10 _available]]>
+    </line>
+    <line>
+      <![CDATA[11 _available]]>
+    </line>
+    <line>
+      <![CDATA[12 _available]]>
+    </line>
+    <line>
+      <![CDATA[13 _available]]>
+    </line>
+    <line>
+      <![CDATA[14 _available]]>
+    </line>
+    <line>
+      <![CDATA[15 _available]]>
+    </line>
+    <line>
+      <![CDATA[16 _available]]>
+    </line>
+    <line>
+      <![CDATA[17 _available]]>
+    </line>
+    <line>
+      <![CDATA[18 _available]]>
+    </line>
+    <line>
+      <![CDATA[19 _available]]>
+    </line>
+    <line>
+      <![CDATA[20 _available]]>
+    </line>
+    <line>
+      <![CDATA[21 _available]]>
+    </line>
+    <line>
+      <![CDATA[22 _available]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114466" started-at="2020-03-02T10:49:50Z" finished-at="2020-03-02T10:51:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114466" started-at="2020-03-02T10:49:50Z" finished-at="2020-03-02T10:51:45Z">
+      <class name="com.website.MovieTicketBookingTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.MovieTicketBookingTestCase@643b1d11]" name="setUp" is-config="true" duration-ms="20447" started-at="2020-03-02T16:19:50Z" finished-at="2020-03-02T16:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkSeatAvailabilty()[pri:0, instance:com.website.MovieTicketBookingTestCase@643b1d11]" name="checkSeatAvailabilty" duration-ms="93988" started-at="2020-03-02T16:20:11Z" finished-at="2020-03-02T16:21:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1 _available]]>
+            </line>
+            <line>
+              <![CDATA[2 _available]]>
+            </line>
+            <line>
+              <![CDATA[3 _available]]>
+            </line>
+            <line>
+              <![CDATA[4 _available]]>
+            </line>
+            <line>
+              <![CDATA[5 _available]]>
+            </line>
+            <line>
+              <![CDATA[6 _available]]>
+            </line>
+            <line>
+              <![CDATA[7 _available]]>
+            </line>
+            <line>
+              <![CDATA[8 _available]]>
+            </line>
+            <line>
+              <![CDATA[9 _available]]>
+            </line>
+            <line>
+              <![CDATA[10 _available]]>
+            </line>
+            <line>
+              <![CDATA[11 _available]]>
+            </line>
+            <line>
+              <![CDATA[12 _available]]>
+            </line>
+            <line>
+              <![CDATA[13 _available]]>
+            </line>
+            <line>
+              <![CDATA[14 _available]]>
+            </line>
+            <line>
+              <![CDATA[15 _available]]>
+            </line>
+            <line>
+              <![CDATA[16 _available]]>
+            </line>
+            <line>
+              <![CDATA[17 _available]]>
+            </line>
+            <line>
+              <![CDATA[18 _available]]>
+            </line>
+            <line>
+              <![CDATA[19 _available]]>
+            </line>
+            <line>
+              <![CDATA[20 _available]]>
+            </line>
+            <line>
+              <![CDATA[21 _available]]>
+            </line>
+            <line>
+              <![CDATA[22 _available]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkSeatAvailabilty -->
+      </class> <!-- com.website.MovieTicketBookingTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
